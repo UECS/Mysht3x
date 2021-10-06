@@ -1,11 +1,10 @@
-//Mysht3x Library
-//Sensirion SHT31‰·¼“xƒZƒ“ƒT—pƒ‰ƒCƒuƒ‰ƒŠ
-//Arduino—p
-//ŠJ”­FUECSŒ¤‹†‰ï
+//Sensirion SHT31æ¸©æ¹¿åº¦ã‚»ãƒ³ã‚µç”¨ãƒ©ã‚¤ãƒ–ãƒ©ãƒª
+//Arduinoç”¨
+//é–‹ç™ºï¼šUECSç ”ç©¶ä¼š
 //Ver1.0 2021/10/6
-//‚±‚Ìƒ‰ƒCƒuƒ‰ƒŠ‚ÍArduno•W€ƒ‰ƒCƒuƒ‰ƒŠ‚ª‚ ‚ê‚Î’P‘Ì‚Å‚àg—p‚Å‚«‚é
+//ã“ã®ãƒ©ã‚¤ãƒ–ãƒ©ãƒªã¯Ardunoæ¨™æº–ãƒ©ã‚¤ãƒ–ãƒ©ãƒªãŒã‚ã‚Œã°å˜ä½“ã§ã‚‚ä½¿ç”¨ã§ãã‚‹
 /*
-ƒ‰ƒCƒZƒ“ƒX
+ãƒ©ã‚¤ã‚»ãƒ³ã‚¹
 CC BY 4.0
 https://creativecommons.org/licenses/by/4.0/
 You are free to:
@@ -26,7 +25,6 @@ Notices:
 	You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
 	No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
 */
-
 #ifndef _SHT3x_H_
 #define _SHT3x_H_
 
