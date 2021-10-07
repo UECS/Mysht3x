@@ -36,7 +36,7 @@ Notices:
 class SHT3x {
   public:
     SHT3x();
-    bool autoRead1Sec(); 
+    bool autoRead1Sec(); //この関数を1秒間隔で呼び出す必要がある
     bool begin(unsigned char i2caddr = SHT3x_ADDR);
     bool startMeasure(void);
     bool getTempHumid(void);
