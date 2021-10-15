@@ -8,10 +8,20 @@ Sensirion SHT3x温湿度センサ用ライブラリ
 自動読み出し関数は1秒間間隔でユーザーが呼び出す必要がある。
 
 -----------------------------------------------------------
-ライセンス CC-BY 4.0
-
-https://creativecommons.org/licenses/by/4.0/deed.ja
-
-表示 — あなたは 適切なクレジットを表示し、ライセンスへのリンクを提供し、変更があったらその旨を示さなければなりません。これらは合理的であればどのような方法で行っても構いませんが、許諾者があなたやあなたの利用行為を支持していると示唆するような方法は除きます。
-
-追加的な制約は課せません — あなたは、このライセンスが他の者に許諾することを法的に制限するようないかなる法的規定も技術的手段も適用してはなりません。
+ライセンス CC BY 4.0
+https://creativecommons.org/licenses/by/4.0/
+You are free to:
+Share
+	copy and redistribute the material in any medium or format
+Adapt
+	remix, transform, and build upon the material
+	for any purpose, even commercially.
+	This license is acceptable for Free Cultural Works.
+	The licensor cannot revoke these freedoms as long as you follow the license terms.
+Under the following terms:
+Attribution 
+	You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+	No additional restrictions ? You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+Notices:
+	You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
+	No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
